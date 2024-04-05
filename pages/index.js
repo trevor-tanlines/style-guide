@@ -2,6 +2,7 @@ import Head from "next/head";
 import styles from "@/styles/Home.module.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import Colours from "@/components/Colours";
 
 
 export default function Home() {
@@ -15,7 +16,7 @@ export default function Home() {
       </Head>
       <Header/>
       <main className={`${styles.main}`}>
-        
+        <Colours/>
       </main>
       <Footer/>
     </>

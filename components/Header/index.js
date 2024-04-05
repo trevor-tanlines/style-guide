@@ -1,4 +1,3 @@
-import Link from "next/link"
 import styles from "@/components/Header/Header.module.css"
 
 
@@ -12,7 +11,6 @@ export default function Header() {
                     <li>Typography</li>
                     <li>Colours</li>
                     <li>Iconography</li>
-                    <li>Buttons</li>
                 </ul>
             </div>
         </div>
