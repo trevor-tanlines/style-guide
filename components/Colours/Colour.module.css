@@ -1,0 +1,58 @@
+.Colours {
+    display: grid;
+    grid-template-rows:  repeat(3,minmax(0,1fr));
+}
+
+.white {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.whiteHex {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.coral {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.coralHex {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.liliac {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.liliacHex {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.whiteDes {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.coralDes {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.liliacDes {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
